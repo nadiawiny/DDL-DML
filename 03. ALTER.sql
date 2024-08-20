@@ -1,0 +1,5 @@
+
+USE PRIMEIRO_BD
+
+ALTER TABLE CLIENTES 
+ALTER COLUMN EMAIL VARCHAR (60) /*alterando uma coluna na tabela*/
